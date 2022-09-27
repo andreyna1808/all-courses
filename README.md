@@ -1,4 +1,5 @@
 # courses
+
 Repository to separate individual projects from courses, this one has projects made with instructors from Udemy, Rockeatseat, DIO, XPE...
 
 The file structure is the following:
@@ -6,18 +7,15 @@ The file structure is the following:
 ```
 
 └── dio
-    └── projects
-└── rockeatseat
-    └── projects
-└── semantix
-    └── projects
-└── startse
-    └── projects
-└── udemy
-    └── projects
-└── xpe
-    └── projects
+    └── All projects
 └── english
-    └── projects
-
+    └── All projects
+└── rockeatseat
+    └── All projects
+└── startse
+    └── All projects
+└── udemy
+    └── All projects
+└── xpe
+    └── All projects
 ```
