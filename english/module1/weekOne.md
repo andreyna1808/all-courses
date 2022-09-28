@@ -8,7 +8,7 @@ Paul: Nice to meet you too, Adam.
 
 ## Learn this
 
-Miss -> young girks, unmarried women
+Miss -> young girls, unmarried women
 
 Ms. -> Adult women
 
