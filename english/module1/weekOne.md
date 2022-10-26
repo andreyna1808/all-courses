@@ -137,3 +137,31 @@ Friday - Sexta
 Saturday - Sábado
 
 Em dias da semana a inicial é maiúscula e se usa a preposição ON => I wake up at 7 o'clock on Monday.
+
+## What time is it?
+
+It's twelve o'clock  = São dozes horas. (não é muito comum na fala)
+
+It's half past ten = São 10:30 (half past == meia hora)
+
+It's a quarter past eight = São 08:15 (eles falam 1/4 de 1h seria 15 minutos)
+
+It's twenty past four = São 04:20.
+
+It's twenty-five past four = São 04:25
+
+It's two oh five = São 02:05
+
+It's twenty to eleven = Faltam 20 minutos para as 11 ou seja 22:40
+
+Seven in the morning = 7 da manhã
+
+In the morning = na/da manhã
+
+In the afternoon = na/da tarde
+
+In the evening = na/da noite
+
+At night = na/da noite
+
+Midday ou noon (meio-dia) | Midnight (meia-noite) 
